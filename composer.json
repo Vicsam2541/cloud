@@ -1,0 +1,15 @@
+{
+    "name": "pong/cloud",
+    "autoload": {
+        "psr-4": {
+            "Pong\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vicha2541",
+            "email": "pongloverponglover@gmail.com"
+        }
+    ],
+    "require": {}
+}
